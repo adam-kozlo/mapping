@@ -1,3 +1,3 @@
 # bizrepo
 
-doctrine ORM // new elements
+doctrine ORM // new elements // new changes
