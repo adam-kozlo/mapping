@@ -24,3 +24,4 @@ $conn = \Doctrine\DBAL\DriverManager::getConnection($connectionParams, $config);
 
 // obtaining the entity manager
 $entityManager = EntityManager::create($conn, $config);
+ //comment
